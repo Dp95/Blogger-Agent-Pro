@@ -52,4 +52,17 @@ The core system is the `blogger_agent`, a multi-agent ecosystem coordinated by t
 ## Value Statement
 Blogger Agent Pro reduces blog development time by 6–8 hours per week, allowing higher-quality content production across multiple domains. Future plans include integrating a trend-scanning agent to automatically generate blog topics.
 
+
+
+---
+
+## Installation
+
+- Python 3.11.3 recommended.
+- Create a virtual environment (e.g., `python -m venv venv`) and activate it.
+- Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
 ---
